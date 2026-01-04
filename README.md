@@ -1,7 +1,7 @@
 # Java Programming Elements – Level 1 & Level 2 Lab Practice
 
 ## Date
-**31_03_2025**
+**31_12_2025**
 
 ## Overview
 On this date, we practiced **Level 1 and Level 2 Java Programming Elements** to understand and apply core Java fundamentals by solving lab-based problems.
