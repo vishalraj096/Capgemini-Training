@@ -1,143 +1,50 @@
-# Java Programming Elements – Level 1 & Level 2 Lab Practice
+# Java Arrays – Level 1 & Level 2 Lab Practice
 
 ## Date
 
-**31_12_2025**
+**31_03_2025**
 
 ## Overview
 
-On this date, we practiced **Level 1 and Level 2 Java Programming Elements** to understand and apply core Java fundamentals by solving lab-based problems.
+On this date, we practiced **Java Arrays Level 1 and Level 2 lab programs** to understand how arrays are used to store, process, and manipulate multiple values efficiently in Java.
+
+These exercises helped strengthen problem-solving skills using **1D arrays, 2D arrays, loops, and input validation**, following proper Java programming standards.
 
 ---
 
 ## Level 1 – Learning Summary
 
-- Basics of Java program structure
-- Use of variables and data types
-- Arithmetic operations and formulas
-- Percentage, profit/loss calculations
-- Unit conversions (km–miles, cm–feet/inches)
-- Writing clean output statements
+Level 1 focuses on **basic array concepts and simple real-world problems**.
 
 **Outcome:**  
-Built confidence in writing simple Java programs using proper coding standards.
+Developed a strong foundation in using arrays to solve basic computational problems efficiently.
 
 ---
 
 ## Level 2 – Learning Summary
 
-- Taking user input using `Scanner`
-- Calculator logic using arithmetic operators
-- Area, distance, and conversion problems
-- Quotient and remainder calculations
-- Integer vs double operations
-- Understanding operator precedence
+Level 2 builds on Level 1 by introducing **complex logic, dynamic arrays, and real-world scenarios**.
 
 **Outcome:**  
-Learned to handle user input and perform multiple computations in a structured way.
+Improved ability to handle complex problems involving multiple arrays, validations, and calculations.
 
 ---
 
 ## Programming Practices Followed
 
+- All values stored in variables
 - No hard-coded values
 - Meaningful variable and class names
 - Proper indentation and readability
+- Comments for logical blocks
+- Input validation for all user inputs
+- Usage of array `length` property
 - One class per program
-- Output as per problem statement
+- Scanner object closed after use
 
 ---
 
 ## Conclusion
 
-These exercises helped strengthen Java fundamentals and prepared us for **lab exams, viva, and further OOP concepts**.
-
-# Java Control Flow – Level 1, Level 2 & Level 3 Lab Practice
-
-## Date
-
-**02_01_2026**
-
-## Overview
-
-On this date, we completed **Java Control Flow Level 1, Level 2, and Level 3 lab practice programs**.  
-These exercises focused on building logical thinking, decision-making skills, and loop-based problem solving using Java.
-
-All programs strictly follow **Best Programming Practices** and are suitable for **lab submission, viva, and exams**.
-
----
-
-## Level 1 – Learning Summary
-
-Level 1 focuses on **basic conditional logic and loop fundamentals**.
-
-### Concepts Covered
-
-- If–else conditions
-- Relational and logical operators
-- Checking divisibility, smallest/largest numbers
-- Natural number validation
-- Voting eligibility
-- Positive, negative, and zero checks
-- While and for loop basics
-- Simple countdown and summation programs
-
-**Outcome:**  
-Developed a strong understanding of basic decision-making and looping in Java.
-
----
-
-## Level 2 – Learning Summary
-
-Level 2 builds on Level 1 with **more structured loop-based logic** and real-world conditions.
-
-### Concepts Covered
-
-- Odd and even number identification
-- Employee bonus calculation
-- Multiplication tables
-- FizzBuzz using for and while loops
-- Finding factors and greatest factors
-- Power calculation using loops
-- Multiples of a number under constraints
-
-**Outcome:**  
-Improved ability to apply loops effectively and solve intermediate logical problems.
-
----
-
-## Level 3 – Learning Summary
-
-Level 3 focuses on **advanced conditional logic and mathematical problem solving**.
-
-### Concepts Covered
-
-- Leap year calculation (multiple conditions & single condition)
-- Grade calculation with remarks
-- Prime number checking
-- Armstrong, Harshad, and Abundant numbers
-- Digit counting
-- BMI calculation with classification
-- Calculator using switch–case
-- Day of the week using Gregorian calendar formulas
-
-**Outcome:**  
-Gained confidence in writing complex logic-driven Java programs using conditions, loops, and formulas.
-
----
-
-## Programming Practices Followed
-
-- Proper file name = class name
-- Meaningful variable and class naming
-- No hard-coded values
-- Proper indentation and comments
-- Scanner closed after use
-- One program per file
-- Output strictly as per problem statement
-
----
-
-## Conclusion
-
-Completing Control Flow Level 1, 2, and 3 strengthened our understanding of **Java logic building**, preparing us for **OOP concepts, lab exams, viva, and interviews**.
+These Array-based exercises strengthened our understanding of **data storage, iteration, and logical problem-solving in Java**.  
+They provide a solid foundation for **Object-Oriented Programming, lab exams, viva, and interview preparation**.
